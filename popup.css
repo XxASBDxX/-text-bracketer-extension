@@ -1,1 +1,28 @@
+/* Style for the popup container */
+body {
+  width: 200px;
+  padding: 10px;
+}
+
+/* Style for the extension title */
+h2 {
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+}
+
+/* Style for the buttons */
+button {
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  padding: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Button hover effect */
+button:hover {
+  background-color: #f0f0f0;
+}
 
